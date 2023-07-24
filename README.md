@@ -1,4 +1,6 @@
 # Weather-Desktop-App
+# Overview:
+Real-Time Weather Updates with a Click! This project required API integration and data parsing skills with the Weather Notifier. Stay informed about current weather conditions in any city, enjoy temperature conversion, and receive sleek desktop notifications. Make an impact with this user-friendly, Python-powered Weather-Desktop-App!
 
 # Languages & Programs Used:
 Python
